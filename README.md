@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Dan Song.
-- 🔭 I’m currently an Mphil student in the economics deparment of HKUST. 
+- 🔭 I’m currently an MPhil student in the economics deparment of HKUST. 
 - :smiling_imp: I'm currently learning R and Python to promote my productivity.
 - 💬 Ask me about anything related to R, Stata, Matlab especially economics.
 - 📫 How to reach me: dsongaj@connect.ust.hk
