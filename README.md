@@ -3,7 +3,7 @@
 - :smiling_imp: I'm currently learning R and Python to promote my productivity.
 - 💬 Ask me about anything related to R, Stata, Matlab especially economics.
 - 📫 How to reach me: dsongaj@connect.ust.hk
-- :stuck_out_tongue_winking_eye: Learn more about me, please click [here]([https://bmphd.hkust.edu.hk/programs/student-profiles/1734](https://sites.google.com/view/dan-daisy-song/bio))
+- :stuck_out_tongue_winking_eye: Learn more about me, please click [here]([https://sites.google.com/view/dan-daisy-song/resources])
 
 
 
