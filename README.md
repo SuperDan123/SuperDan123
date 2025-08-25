@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Dan Song.
-- 🔭 I’m currently an MPhil student in the economics department of HKUST. 
+- 🔭 I’m currently a PhD student at Tepper Business School in Carnegie Mellon University.
 - :smiling_imp: I'm currently learning R and Python to promote my productivity.
 - 💬 Ask me about anything related to R, Stata, Matlab especially economics.
 - 📫 How to reach me: dsongaj@connect.ust.hk
