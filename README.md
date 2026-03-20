@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Dan Song.
 - 🔭 I’m currently a PhD student at Tepper Business School in Carnegie Mellon University.
-- :smiling_imp: I'm currently learning machine learning to expand my research toolkit.
+- :smiling_imp: I'm currently studying machine learning to expand my research toolkit.
 - 💬 Ask me about anything related to quantitative marketing, economics and math.
 - 📫 How to reach me: dsongaj@connect.ust.hk
 - :stuck_out_tongue_winking_eye: Learn more about me, please click [here](https://sites.google.com/view/dan-daisy-song/bio)
